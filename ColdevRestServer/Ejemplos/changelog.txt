@@ -1,0 +1,27 @@
+==============================
+BennuWebServices
+
+Colombian Developers (c) 2018
+==============================
+
+
+-------------------
+v1.0.2        14/05/2018
+
++ New JSON, ARRAYs, score/player/catalog/inventory server functions
+--------------------
+
+
+
+-------------------
+v1.0.1        08/05/2018
+
++ New COMPRESS, BASE64 functions
+--------------------
+
+
+-------------------
+v1.0        06/05/2018
+
++ New SHA256, AES256, CRC32, APP_PROTECT functions
+--------------------
